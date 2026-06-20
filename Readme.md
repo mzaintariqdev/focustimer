@@ -4,7 +4,31 @@ A Pomodoro-style productivity app built with **React Native + Expo**. Create tas
 
 ---
 
-## 📱 Screenshots
+## 📱 Screenshots & Video
+
+https://github.com/user-attachments/assets/2b6e41fa-a19e-4788-9e9a-6e9484795b86
+
+<img width="1080" height="2412" alt="WhatsApp Image 2026-06-20 at 5 56 34 PM" src="https://github.com/user-attachments/assets/d7215433-078a-41b1-af58-2e12f54a5bb0" />
+<img width="716" height="1600" alt="WhatsApp Image 2026-06-20 at 5 56 34 PM (4)" src="https://github.com/user-attachments/assets/2abc6cab-30c1-446a-a071-92e0592bb36f" />
+<img width="270" height="1178" alt="WhatsApp Image 2026-06-20 at 5 56 34 PM (3)" src="https://github.com/user-attachments/assets/4e9fba90-bf4a-41ef-8b48-824f13627ff1" />
+<img width="716" height="1600" alt="WhatsApp Image 2026-06-20 at 5 56 34 PM (2)" src="https://github.com/user-attachments/assets/102ed09d-dde2-4b16-aaa3-e680830a6406" />
+<img width="716" height="1600" alt="WhatsApp Image 2026-06-20 at 5 56 34 PM (1)" src="https://github.com/user-attachments/assets/a17e3931-0a69-4e9c-a701-d7ce053fad83" />
+<img width="716" height="1600" alt="WhatsApp Image 2026-06-20 at 5 56 33 PM" src="https://github.com/user-attachments/assets/096d93fe-03ce-4d10-82ed-5bb3a35359dc" />
+<img width="415" height="1280" alt="WhatsApp Image 2026-06-20 at 5 56 33 PM (5)" src="https://github.com/user-attachments/assets/de11f5be-fc4b-4562-8bfc-6c809724f057" />
+<img width="1080" height="2412" alt="WhatsApp Image 2026-06-20 at 5 56 33 PM (4)" src="https://github.com/user-attachments/assets/182d9524-0a1d-4dd4-8381-11dffa08b7ca" />
+<img width="409" height="1280" alt="WhatsApp Image 2026-06-20 at 5 56 33 PM (3)" src="https://github.com/user-attachments/assets/18353e5c-043e-4f3e-8e1c-7b4b48e00981" />
+<img width="1080" height="2412" alt="WhatsApp Image 2026-06-20 at 5 56 33 PM (2)" src="https://github.com/user-attachments/assets/fcb88337-8f8f-4783-bdff-a24459681c14" />
+<img width="270" height="1227" alt="WhatsApp Image 2026-06-20 at 5 56 33 PM (1)" src="https://github.com/user-attachments/assets/d99502d3-988f-40f0-961f-ca80e41365ba" />
+<img width="716" height="1600" alt="WhatsApp Image 2026-06-20 at 5 56 32 PM" src="https://github.com/user-attachments/assets/86bafec3-a270-48ea-8273-9afab19c9baf" />
+<img width="716" height="1600" alt="WhatsApp Image 2026-06-20 at 5 56 32 PM (2)" src="https://github.com/user-attachments/assets/95b2f438-ed0b-4d95-9a96-d2470b78524c" />
+<img width="716" height="1600" alt="WhatsApp Image 2026-06-20 at 5 56 32 PM (1)" src="https://github.com/user-attachments/assets/78be3d1b-73fa-4e76-aade-9955cbc66d21" />
+<img width="716" height="1600" alt="WhatsApp Image 2026-06-20 at 5 56 30 PM" src="https://github.com/user-attachments/assets/36c0eac1-5d0f-4a77-8e0e-a4d2dba9df11" />
+<img width="716" height="1600" alt="WhatsApp Image 2026-06-20 at 5 56 30 PM (1)" src="https://github.com/user-attachments/assets/ae6d45fb-94e9-416c-8bca-c4f49411fbaa" />
+
+
+
+
+
 
 > Add your screenshots here after final build
 
@@ -74,6 +98,7 @@ FocusTimer/
 └── src/
     ├── context/
     │   └── ThemeContext.js         # Dark/light/system theme context
+    │   └── TimerContext.js         # Timer context
     ├── navigation/
     │   └── RootNavigator.js        # Tab + stack navigation setup
     ├── screens/
@@ -258,11 +283,10 @@ When you rename a task, `editTask()` also updates `taskTitle` in all stored sess
 
 ## 👤 Author
 
-Built by **[Your Name]** as a React Native portfolio project.
+Built by **Zain**.
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourname)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- GitHub: [@mzaintariqdev](https://github.com/mzaintariqdev)
+- LinkedIn: [Zain Tariq](https://www.linkedin.com/in/muhammad-zain-tariq)
 
 ---
 
